@@ -1,0 +1,17 @@
+0,05	H		wysokosc przekroju, m;
+0,04  B		szerokosc przekroju, m;
+10	nH		liczba wezlow po wysokosci;
+41	nB		liczba wezlow po szerokosci;
+24	t_begin		temperatura poczatkowa, C;
+60	tau		czas procesu, s;
+120 dTau		krok czasowy, s;
+250 t_otoczenia	temperatura otoczenia, C;
+24	t_otoczenia	temperatura otoczenia 2, C;
+1,2	alfa		wspolczynnik wymiany ciepla, W/(K*m^2);
+729	c		cieplo wlasciwe, J/C*kg;
+0,8	k		wspolczynnik przewodzenia ciepla, W/(C*m);
+2530	ro		gestosc, kg/m3;
+6,45	alfaPow		wspolczynnik wymiany ciepla, W/(K*m^2);
+1005	cPow		cieplo wlasciwe, J/C*kg;
+0,0259	kPow		wspolczynnik przewodzenia ciepla, W/(C*m);
+0,946	roPow		gestosc, kg/m3;
